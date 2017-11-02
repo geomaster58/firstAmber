@@ -1,0 +1,2 @@
+pg:
+  database: postgres://root:@localhost:5432/firstAm_development
